@@ -3,7 +3,7 @@
 
 目前支持的数据库包括:
 
-+ CnosDB[(相关文档)](docs/cnosdb.md)
++ CnosDB
 
 + InfluxDB [(相关文档)](docs/influx.md)
 
